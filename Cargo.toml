@@ -2,7 +2,7 @@
 name = "arch-config"
 version = "0.1.0"
 edition = "2021"
-description = "SigmaOS SigmaOS-arch-config component - Inspired by Arch Linux and Debian"
+description = "SigmaOS SigmaOS-arch-config component - SigmaOS component"
 license = "MIT"
 repository = "https://github.com/AaryanSinghChauhan09/SigmaOS-arch-config"
 
